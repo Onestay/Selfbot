@@ -1,0 +1,32 @@
+{
+  "name": "onestay-selfbot",
+  "version": "0.0.1",
+  "description": "A useful selfbot for discord.js with alot of fun and useful commands",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Onestay/Selfbot.git"
+  },
+  "keywords": [
+    "selfbot",
+    "discord.js",
+    "discord"
+  ],
+  "author": "onestay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Onestay/Selfbot/issues"
+  },
+  "homepage": "https://github.com/Onestay/Selfbot#readme",
+  "dependencies": {
+    "danbooru": "^1.4.8",
+    "discord.js": "github:hydrabolt/discord.js#indev",
+    "discord.js-commando": "^0.6.3",
+    "moment": "^2.17.1",
+    "moment-duration-format": "^1.3.0",
+    "request": "^2.79.0"
+  }
+}
